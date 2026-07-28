@@ -1,4 +1,15 @@
-# Hi, I'm Soumya Sri Perepu 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Soumya%20Sri%20Perepu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%7C%20ML%20for%20Cancer%20Research%20%7C%20Builder&descAlignY=58&descSize=18">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Soumya%20Sri%20Perepu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%7C%20ML%20for%20Cancer%20Research%20%7C%20Builder&descAlignY=58&descSize=18">
+</picture>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=PhD+Candidate+%40+Pace+University;Health+Informatics+%26+Cancer-Focused+ML;Building+AI+for+Finance+%26+Medicine;Turning+Data+Into+Decisions)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyaSriPerepu&color=764ba2&style=flat-square&label=Profile+Views)
+
+</div>
 
 PhD candidate in Computer Science at Pace University, researching **health informatics and cancer-focused machine learning**. I also hold an M.S. and B.S. in Computer Science, and an MBA focus in Business Analytics — I like sitting at the intersection of rigorous ML research and practical, deployable systems.
 
@@ -31,10 +42,29 @@ PhD candidate in Computer Science at Pace University, researching **health infor
 
 ## 📊 GitHub stats
 
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyaSriPerepu&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSriPerepu&layout=compact&hide_border=true)
+<div align="center">
+
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyaSriPerepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaSriPerepu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SoumyaSriPerepu&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SoumyaSriPerepu&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyaSriPerepu/SoumyaSriPerepu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyaSriPerepu/SoumyaSriPerepu/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SoumyaSriPerepu/SoumyaSriPerepu/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 Let's connect
 
 [![Email](https://img.shields.io/badge/-perepusoumyasri%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:perepusoumyasri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyasriperepu)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer">
+
